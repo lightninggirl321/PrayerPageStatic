@@ -2,6 +2,7 @@
 Static Image of BVM with Ave Maria: Prayer Page Sample
 
 > "HOLY HEARTS" zip: completed project for you to download.
+> SCAFFOLDING is the core function, other files are the MAIN, ART, and MUSIC from which it pulls.
 > art is mine via kleki +jmj+ music was free download.
 > independent files are 
 > you're welcome to improve it under the GNU 3 Open Source License: pls just be respectful and keep it open source --> linked to this project. ie, if you do the same, with a different subject, reference my work.
